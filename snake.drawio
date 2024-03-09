@@ -1,17 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T02:34:35.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="yddKp5NQ5kzkN1vdHa0D" version="24.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T02:37:24.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="dLixMJdSsIgvYO-nwHer" version="24.0.3" type="github">
   <diagram name="Página-1" id="Y_l0bsq23Z_zMZZ5lXru">
     <mxGraphModel dx="832" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tm7H5VV21i9pOxyADDD9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="150" height="280" as="geometry" />
+          <mxGeometry x="320" y="90" width="150" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7H5VV21i9pOxyADDD9-3" target="Tm7H5VV21i9pOxyADDD9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7H5VV21i9pOxyADDD9-3" target="Tm7H5VV21i9pOxyADDD9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7H5VV21i9pOxyADDD9-3" target="Tm7H5VV21i9pOxyADDD9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7H5VV21i9pOxyADDD9-3" target="Tm7H5VV21i9pOxyADDD9-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tm7H5VV21i9pOxyADDD9-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="220" y="180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tm7H5VV21i9pOxyADDD9-6" value="&lt;span style=&quot;font-weight: 700; color: rgb(227, 227, 227); font-family: &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: left; background-color: rgb(19, 19, 20);&quot;&gt;Iniciar partida&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-6" value="Iniciar partida" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-7" value="Comer comida" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-8" value="Controlar serpiente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7H5VV21i9pOxyADDD9-9" value="Esquivar obstaculos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
